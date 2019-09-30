@@ -5,6 +5,7 @@ permalink: /guides/overview/
 :page-duration: 25 minutes
 :page-description: Overview of Architecture and Development Workflows
 :page-title: Architecture and Development Workflows
+:page-guide-category: basic
 :linkattrs:
 = Architecture and Development Workflows    
 
